@@ -1,0 +1,13 @@
+#Set the rewrite rules
+RewriteEngine on
+#Options +FollowSymLinks
+
+RewriteRule index.php – [L]
+
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_FILENAME} !-f
+RewriteRule ^(.[^/|\.]*)[/]?$ index.php?modul=$1 [L,QSA]
+
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_FILENAME} !-f
+RewriteRule ^(.[^/|\.]*)/(.[^/|\.]*)\.html?$ index.php?modul=$1&action=$2 [L,QSA]

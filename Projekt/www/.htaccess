@@ -1,0 +1,1 @@
+ErrorDocument 404 /Framework/Projekt/www/index.php?modul=error404
