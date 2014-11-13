@@ -1,0 +1,11 @@
+
+ErrorDocument 400 /?modul=error&code=400
+ErrorDocument 401 /?modul=error&code=401
+ErrorDocument 403 /?modul=error&code=403
+ErrorDocument 404 /?modul=error&code=404
+ErrorDocument 405 /?modul=error&code=405
+ErrorDocument 410 /?modul=error&code=410
+ErrorDocument 500 /?modul=error&code=500
+ErrorDocument 501 /?modul=error&code=501
+ErrorDocument 502 /?modul=error&code=502
+ErrorDocument 503 /?modul=error&code=503

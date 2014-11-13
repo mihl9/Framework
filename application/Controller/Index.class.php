@@ -10,7 +10,8 @@ class Controller_Index extends \framework\classes\Controller\Controller_Abstract
 
     public function Index_Action()
     {
-        \framework\classes\View\FWView::getView()->addTemplateContent("content", array("text" => "Es geht!"), "content.tpl.php");
+        \framework\classes\View\FWView::getView()->addTemplateContent("content", array("content" => "Es geht!"), "content.tpl.php");
+        \framework\classes\View\FWView::getView()->addTemplateContent("rightBoxes", array("content" => "Es geht!"), "rightBoxes.tpl.php");
     }
 
     public function test_Action()

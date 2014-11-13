@@ -43,7 +43,7 @@ abstract class View_Abstract implements View_Interface{
         }
         else
         {
-            $class = "viewfiles_helper_".$func;
+            $class = "ViewHelper_".$func;
         }
 
         if(!isset($this->viewHelpers[$class]))

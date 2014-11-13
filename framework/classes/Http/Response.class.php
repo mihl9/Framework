@@ -99,7 +99,7 @@ class Response {
 
     public function redirect($controller, $action="", array $additional_params = array())
     {
-        $url = $this->getInternalUrl($controller, $action, $additional_params);
+        $url = $this->getInternalUrl($controller, $action, $additional_params, 1);
         $this->redirectURL($url, true);
     }
 
@@ -114,7 +114,7 @@ class Response {
         $this->setCookie($name, null, (time()-(86400*365*10)));
     }
 
-    private function getInternalUrl($controller, array $actions, $id) {
+    private function getInternalUrl($controller, $action ,array $additional_params, $id) {
         $url = "";
         $controller = strtolower($controller);
 
@@ -126,9 +126,9 @@ class Response {
         if (file_exists($controlllerRoot ."/".  $controller .'class.php')) {
             // add ?controller=
             $url .= "?modul=" . $controller;
-
+            $url .= "&" . $action;
             // add actions &test=3
-            foreach ($actions as $key => $parameter) {
+            foreach ($additional_params as $key => $parameter) {
                 $url .= "&" . $key . "=" . $parameter;
             }
 
@@ -137,7 +137,7 @@ class Response {
                 $url .= "#" . $id;
             }
         } else {
-            $url = "?modul=" . $error404;
+            $url = "?modul=" . $error404 . "&code=404";
         }
 
         return $url;

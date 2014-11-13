@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: Michael
  * Date: 06.11.2014
- * Time: 00:32
+ * Time: 21:25
  */
-
-//$this->showTemplateContent("content");
+echo $this->LoginBox();
+echo $this->content;
