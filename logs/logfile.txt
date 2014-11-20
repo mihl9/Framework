@@ -649,3 +649,525 @@
 11.11.2014 - 00:06:14 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
 11.11.2014 - 00:06:42 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
 11.11.2014 - 00:06:44 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+13.11.2014 - 22:22:46 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 22:22:46 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 22:22:46 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 22:22:54 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+13.11.2014 - 22:22:58 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+13.11.2014 - 22:56:08 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 22:56:08 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 22:56:08 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:07:08 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+13.11.2014 - 23:08:45 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:08:45 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:08:45 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:09:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:09:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:09:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:06 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:06 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:06 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:13:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:14:05 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:14:05 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:14:05 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:52 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:21:53 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+13.11.2014 - 23:22:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:22:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+13.11.2014 - 23:22:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:40:11 | error | 127.0.0.1 | File: Static function framework\classes\Model\Model_Abstract::getInstance() should not be abstract | Line: D:\WebApps\htdocs\Framework\framework\classes\Model\Model_Abstract.class.php | 1: 
+16.11.2014 - 00:40:12 | error | 127.0.0.1 | File: Static function framework\classes\Model\Model_Abstract::getInstance() should not be abstract | Line: D:\WebApps\htdocs\Framework\framework\classes\Model\Model_Abstract.class.php | 1: 
+16.11.2014 - 00:40:13 | error | 127.0.0.1 | File: Static function framework\classes\Model\Model_Abstract::getInstance() should not be abstract | Line: D:\WebApps\htdocs\Framework\framework\classes\Model\Model_Abstract.class.php | 1: 
+16.11.2014 - 00:41:51 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:41:51 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:41:51 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:43:01 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 00:45:21 | error | 127.0.0.1 | File: Static function framework\classes\Model\Model_Abstract::getInstance() should not be abstract | Line: D:\WebApps\htdocs\Framework\framework\classes\Model\Model_Abstract.class.php | 1: 
+16.11.2014 - 00:45:21 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:45:21 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:45:21 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:46:10 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:46:10 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:46:10 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:51:11 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:51:11 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:51:11 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:57:03 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 00:57:44 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:57:44 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 00:57:44 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:03:22 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 01:52:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:52:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:52:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:53:03 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 01:53:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:53:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:53:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:56:04 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 01:56:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:56:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:56:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:56:55 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 01:58:10 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:58:10 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:58:10 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 01:58:24 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 02:02:27 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:38 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: file_get_contents(./lib/install.sql): failed to open stream: No such file or directory | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:02:39 | error | 127.0.0.1 | File: mysqli::mysqli(): (HY000/1049): Unknown database 'projekt' | Line: D:\WebApps\htdocs\Framework\framework\tools\Database\Database.class.php | 1: 
+16.11.2014 - 02:14:20 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 02:14:20 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 02:14:20 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 02:14:23 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 02:14:33 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+16.11.2014 - 02:14:53 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 02:14:53 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 02:14:53 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+16.11.2014 - 02:14:57 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:26:09 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:26:09 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:26:09 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:10 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:31:20 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:31:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:42 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:42 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:42 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:31:49 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:33:31 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:31 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:32 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:32 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:32 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:32 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:35 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:35 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:47 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:47 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:51 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:51 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:59 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:33:59 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:01 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:01 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:03 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:03 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:03 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:03 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:04 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:34:04 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:04 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:04 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:04 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:05 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:05 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:13 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:13 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:22 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:22 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:25 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:25 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:26 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:26 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:26 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:26 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:28 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:28 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:28 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:30 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:30 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:34:33 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:35:06 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+19.11.2014 - 22:35:06 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+19.11.2014 - 22:35:06 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+19.11.2014 - 22:35:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:35:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:35:27 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:35:37 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:38:19 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:41:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:41:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:41:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:41:08 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:42:33 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:51:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:51:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:51:50 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:51:52 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:52:02 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:52:15 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:52:18 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+19.11.2014 - 22:53:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:53:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:53:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:53:40 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:53:40 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:53:41 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:53:41 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:53:53 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:53:53 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+19.11.2014 - 22:54:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:54:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+19.11.2014 - 22:54:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 

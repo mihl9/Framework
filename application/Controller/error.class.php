@@ -10,7 +10,6 @@ class  Controller_error extends \framework\classes\Controller\Controller_Abstrac
 
     public function Index_Action()
     {
-        $this->view = \framework\classes\View\FWView::getView();
         $this->view->setLayout("empty");
         //$view->addTemplateContent("content", array("text" => "Error 404 :D!"), "content.tpl.php");
         if($this->request->issetGet("code")){

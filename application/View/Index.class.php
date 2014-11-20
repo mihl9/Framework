@@ -6,7 +6,7 @@
  * Time: 23:46
  */
 
-class View_Index extends \framework\classes\View\HTML{
+class View_index extends \framework\classes\View\HTML{
 
     public static function getInstance(){
         if(self::$instance===null){

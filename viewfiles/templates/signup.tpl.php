@@ -10,7 +10,7 @@
     <div class="panel-body">
         <?php echo @\framework\classes\Security\ErrorManager::getError(3,true); ?>
 
-        <form class="form-signin" method="post" action="?modul=signup&action=newuser">
+        <form class="form-signin" method="post" action="?modul=Signup&action=newuser">
             <fieldset>
                 <label>
                     E-Mail:

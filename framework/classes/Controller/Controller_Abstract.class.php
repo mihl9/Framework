@@ -40,9 +40,9 @@ abstract class Controller_Abstract {
      * Constructor
      *
      */
-    public function __construct() {
-        //$this->model = $model;
-        //$this->view = $view;
+    public function __construct($view, $model) {
+        $this->model = $model;
+        $this->view = $view;
 
         $this->authentication = Authentication::getInstance();
 

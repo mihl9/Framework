@@ -21,6 +21,7 @@ class ViewHelper_LoginBox implements \framework\classes\View\Helper\Helper_Inter
                                 Passwort:
                                 <input class="form-control" type="password" name="password" required>
                             </label>
+                            <br/>
                             <a href="?modul=signup">Du hast noch kein Konto?</a>
                             <button class="form-control btn btn-default" type="submit">Login</button>
                         </form>

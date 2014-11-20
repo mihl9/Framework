@@ -41,7 +41,7 @@ class Authentication {
      * @return bool: true if user sign in
      */
     public function signInUser($email, $password) {
-        $resultUser = $this->database->executeWithResult("SELECT token,hash FROM user WHERE LOWER(email)='$email' and active=TRUE");
+        $resultUser = $this->database->executeWithResult("SELECT token,hash FROM t_user WHERE LOWER(email)='$email' and active=TRUE");
 
         if (count($resultUser) ==  1) {
             // user exist in database
@@ -51,12 +51,12 @@ class Authentication {
             // decrypted password with token and sha1
             $decryprePass = sha1($token . $password);
 
-            $resultUser = $this->database->executeWithResult("SELECT iduser, errorlog,email FROM user WHERE lower(email)='$email' and password='$decryprePass'");
+            $resultUser = $this->database->executeWithResult("SELECT iduser, errorlog,email FROM t_user WHERE lower(email)='$email' and password='$decryprePass'");
 
             if (count($resultUser) == 1) {
                 // user exist with correct password in database
                 if ($resultUser[0]['errorlog']) {
-                    $this->database->execute("UPDATE user SET errorlog=0 WHERE hash='$hash'");
+                    $this->database->execute("UPDATE t_user SET errorlog=0 WHERE hash='$hash'");
                 }
 
                 // set importand sessions
@@ -68,8 +68,8 @@ class Authentication {
 
                 return true;
             } else {
-                $this->database->execute("UPDATE user SET errorlog=errorlog + 1 WHERE hash='$hash'");
-                $userErrorLog = $this->database->executeWithResult("SELECT errorlog FROM user WHERE hash='$hash'");
+                $this->database->execute("UPDATE t_user SET errorlog=errorlog + 1 WHERE hash='$hash'");
+                $userErrorLog = $this->database->executeWithResult("SELECT errorlog FROM t_user WHERE hash='$hash'");
 
                 // TODO disable acc
             }
@@ -103,7 +103,7 @@ class Authentication {
             return 1;
         }
 
-        $user = $this->database->executeWithResult("SELECT iduser FROM user where hash='$hash' and active=TRUE");
+        $user = $this->database->executeWithResult("SELECT iduser FROM t_user where hash='$hash' and active=TRUE");
 
         if (count($user)== 1) {
             // TODO: more security elements. Example ip check, errorlog check

@@ -124,9 +124,10 @@ class Database {
 
     private function install()
     {
+        $config = Config::getInstance();
         $this->mysql = new \mysqli($this->mysqlHost, $this->mysqlUser, $this->mysqlPw);
         //todo: Installationscript der Datenbank erstellen und implementieren
-        $sqlstr = file_get_contents('./lib/install.sql', FILE_USE_INCLUDE_PATH);
+        $sqlstr = file_get_contents($config->dbinstall, FILE_USE_INCLUDE_PATH);
         $this->mysql->multi_query($sqlstr);
         $this->mysql->close();
     }

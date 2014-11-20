@@ -6,7 +6,7 @@
  * Time: 23:46
  */
 
-class View_Signup extends \framework\classes\View\HTML{
+class View_signup extends \framework\classes\View\HTML{
 
     public static function getInstance(){
         if(self::$instance===null){

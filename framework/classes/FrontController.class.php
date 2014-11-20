@@ -6,6 +6,7 @@ use framework\classes\Filter\Chain;
 use framework\classes\Filter\Filter_Interface;
 use framework\classes\Http\Request;
 use framework\classes\Http\Response;
+use framework\classes\Model\FWModel;
 use framework\classes\SubController\SubController_Abstract;
 use framework\classes\View\FWView;
 
@@ -16,19 +17,20 @@ class FrontController{
     private $subControllers = array();
     private $controllerpath;
     public static $view;
+    public static $model;
     private static $instance;
 
     public function route( Request $request,Response $response){
         if($request->issetGet("modul") && $request->getGet("modul") != ""){
             $modul = htmlentities($request->getGet("modul"));
         }else{
-            $modul = "Index";
+            $modul = "index";
         }
 
         if($request->issetGet("action") && $request->getGet("action") != ""){
             $action = htmlentities($request->getGet("action"));
         }else{
-            $action = "Index";
+            $action = "index";
         }
 
         $request->setControllerName($modul);
@@ -49,10 +51,12 @@ class FrontController{
             require_once($path);
             $controller = "Controller_".$modul;
             $view = "View_".$modul;
-            self::$view =$view ;
+            self::$view =$view;
+            $model = "Model_".$modul;
+            self::$model = $model;
             if(class_exists($controller, false)){
                 $this->runSubControllers($request, $response, true); //runBeforeMainController
-                $controller = new $controller($request, $response);
+                $controller = new $controller(FWView::getView(), FWModel::getModel());
                 //if(FW_Controller_Abstract::isValid($controller)){
                 if(Controller_Abstract::isValid($controller)){
                     try

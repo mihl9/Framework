@@ -9,6 +9,10 @@ body {
 
 }
 
+label{
+    display: block;
+}
+
 .Window {
     /*Grösse des Fensters anpassen*/
     width: 60%;
@@ -107,7 +111,7 @@ body {
     padding: 5px;
     margin-bottom: 5px;
     margin-right: 0px;
-    text-align: right;
+    text-align: left;
     width: 100%;
 }
 
