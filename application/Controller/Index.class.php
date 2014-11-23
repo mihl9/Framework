@@ -8,7 +8,7 @@
 
 class Controller_index extends \framework\classes\Controller\Controller_Abstract{
 
-    public function Index_Action()
+    public function index_Action()
     {
         $this->view->addTemplateContent("content", array("content" => "Es geht!"), "content.tpl.php");
         $this->view->addTemplateContent("rightBoxes", array("content" => "Es geht!"), "rightBoxes.tpl.php");
@@ -33,6 +33,6 @@ class Controller_index extends \framework\classes\Controller\Controller_Abstract
 
     public function Logout_Action(){
         $this->authentication->signOutUser();
-        $this->response->redirect("index");
+        $this->response->redirect("Index");
     }
 } 

@@ -68,7 +68,7 @@ class FrontController{
                         }
                         else
                         {
-                            $response->redirect("error404");
+                            $response->redirect("error","",array("code" => "404"));
                         }
                         $this->runSubControllers($request, $response, false); //runAfterMainController
                         //Display Data with View
@@ -83,11 +83,11 @@ class FrontController{
             }else{
                 //$debugger->Error("Controllerklasse nicht gefunden: ".$controller, __FILE__, __LINE__, "error");
                 //$debugger->Error("Controllerklasse nicht gefunden: ".$controller, __FILE__, __LINE__, false);
-                $response->redirect("error404");
+                $response->redirect("error","",array("code" => "404"));
             }
         }else{
             //$debugger->dieError("Controllerdatei nicht gefunden: ".$path."\n Eventuell ist der erste Buchstabe des Dateinamens nicht groß geschrieben. ", __FILE__, __LINE__, false);
-            $response->redirect("error404");
+            $response->redirect("error","",array("code" => "404"));
         }
 
         $this->postFilters->execute($request, $response);

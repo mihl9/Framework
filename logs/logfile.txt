@@ -1171,3 +1171,257 @@
 19.11.2014 - 22:54:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
 19.11.2014 - 22:54:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
 19.11.2014 - 22:54:12 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:00:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:00:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:00:22 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:16:26 | error | 127.0.0.1 | File: Undefined index: firstname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 18:16:26 | error | 127.0.0.1 | File: Undefined index: lastname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 18:16:32 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:16:32 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:16:32 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:07 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:15 | error | 127.0.0.1 | File: Undefined index: firstname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 18:17:15 | error | 127.0.0.1 | File: Undefined index: lastname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 18:17:19 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:19 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:19 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:37 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:58 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:58 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:17:58 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:18:48 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:18:48 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:18:48 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:19:39 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:19:39 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:19:39 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:20:30 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:45 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:46 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:46 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:55 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:55 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:58 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:58 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:20:59 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:00 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:00 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:01 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:01 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:02 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:02 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:10 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:21:10 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:23:11 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:23:11 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:23:11 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:23:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:23:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:23:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:25:48 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:25:48 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:25:48 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:29:06 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:07 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:07 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:10 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:10 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:13 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:13 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:14 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:14 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:18 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:18 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:20 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:20 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:21 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:21 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:21 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:21 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:24 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:24 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:25 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:25 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:27 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:27 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:27 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:27 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:28 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:28 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:29 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:29 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:43 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:29:43 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:04 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:04 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:04 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:04 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:05 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:05 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:06 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:06 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:07 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:07 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:09 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:09 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:12 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:12 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:32 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:32 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:45 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:45 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:46 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:46 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:47 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:47 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:47 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:30:57 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:01 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:12 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:13 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:34 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:45 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:45 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:45 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:31:46 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+21.11.2014 - 18:31:46 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+21.11.2014 - 18:31:46 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+21.11.2014 - 18:32:08 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:32:10 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:32:39 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:32:39 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:32:39 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:33:00 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:01 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:01 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:03 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:03 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:08 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:08 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:10 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:10 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:10 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:10 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:11 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:11 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:11 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:11 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:11 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:11 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:12 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:12 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:12 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:12 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:12 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:12 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:13 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:13 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:13 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:13 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:14 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:14 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:14 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:14 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:14 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:14 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:15 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:15 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:16 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:16 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:28 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:28 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:29 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:29 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:29 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:29 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:30 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:30 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:31 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:31 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:31 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:32 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:32 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:35 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:35 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:36 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:33:52 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+21.11.2014 - 18:33:52 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+21.11.2014 - 18:33:52 | error | 127.0.0.1 | File: Cannot modify header information - headers already sent by (output started at D:\WebApps\htdocs\Framework\framework\classes\Debugger\Debugger.class.php:148) | Line: D:\WebApps\htdocs\Framework\framework\classes\Http\Response.class.php | 1: 
+21.11.2014 - 18:35:45 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:35:45 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:35:45 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:36:05 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:10 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:10 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:15 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:15 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:16 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:16 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:17 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:17 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:18 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:18 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:19 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:19 | error | 127.0.0.1 | File: Undefined variable: config | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:19 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:19 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:20 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:20 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:21 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:36:23 | error | 127.0.0.1 | File: Undefined variable: request | Line: xdebug://debug-eval(1) : eval()'d code | 1: 
+21.11.2014 - 18:43:58 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:43:58 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:43:58 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:46:03 | error | 127.0.0.1 | File: Undefined index: firstname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 18:46:03 | error | 127.0.0.1 | File: Undefined index: lastname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 18:46:14 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:46:14 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:46:14 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 18:46:27 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+21.11.2014 - 18:51:27 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+21.11.2014 - 18:51:50 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+21.11.2014 - 18:54:21 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+21.11.2014 - 19:28:24 | error | 127.0.0.1 | File: Undefined index: firstname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 19:28:24 | error | 127.0.0.1 | File: Undefined index: lastname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 19:30:26 | error | 127.0.0.1 | File: Undefined index: iduser | Line: xdebug://debug-eval | 1: 
+21.11.2014 - 19:30:50 | error | 127.0.0.1 | File: Undefined index: firstname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 19:30:50 | error | 127.0.0.1 | File: Undefined index: lastname | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\authentication.class.php | 1: 
+21.11.2014 - 19:31:53 | error | 127.0.0.1 | File: Indirect modification of overloaded property framework\tools\Session\FWSessionHandler::$error has no effect | Line: D:\WebApps\htdocs\Framework\framework\classes\Security\errormanager.class.php | 1: 
+21.11.2014 - 19:32:23 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 19:32:23 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+21.11.2014 - 19:32:23 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:31:26 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:31:26 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:31:26 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:37:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:37:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:37:25 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:37:34 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:37:34 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 00:37:34 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:19 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:19 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:19 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:33 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:33 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:33 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:42 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:42 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 12:27:42 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 13:58:04 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 13:58:04 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+22.11.2014 - 13:58:04 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 

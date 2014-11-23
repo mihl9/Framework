@@ -51,7 +51,7 @@ class Authentication {
             // decrypted password with token and sha1
             $decryprePass = sha1($token . $password);
 
-            $resultUser = $this->database->executeWithResult("SELECT iduser, errorlog,email FROM t_user WHERE lower(email)='$email' and password='$decryprePass'");
+            $resultUser = $this->database->executeWithResult("SELECT iduser, errorlog,email, firstname, lastname FROM t_user WHERE lower(email)='$email' and password='$decryprePass'");
 
             if (count($resultUser) == 1) {
                 // user exist with correct password in database
@@ -65,7 +65,7 @@ class Authentication {
                 $session->iduser = $resultUser[0]['iduser'];
                 $session->hash = $hash;
                 $session->email = $resultUser[0]['email'];
-
+                $session->UserName = $resultUser[0]['firstname'] . " " . $resultUser[0]['lastname'];
                 return true;
             } else {
                 $this->database->execute("UPDATE t_user SET errorlog=errorlog + 1 WHERE hash='$hash'");

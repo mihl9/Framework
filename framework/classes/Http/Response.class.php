@@ -123,10 +123,15 @@ class Response {
         $controlllerRoot = $config->get("project_controllers");
         $error404 = $config->get("error404");
 
-        if (file_exists($controlllerRoot ."/".  $controller .'class.php')) {
+        if($action==""){
+            //$action = "Index_Action";
+        }
+        if (file_exists($controlllerRoot ."/".  $controller .'.class.php')) {
             // add ?controller=
             $url .= "?modul=" . $controller;
-            $url .= "&" . $action;
+            if($action!=="") {
+                $url .= "&action=" . $action;
+            }
             // add actions &test=3
             foreach ($additional_params as $key => $parameter) {
                 $url .= "&" . $key . "=" . $parameter;
