@@ -1425,3 +1425,9 @@
 22.11.2014 - 13:58:04 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
 22.11.2014 - 13:58:04 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
 22.11.2014 - 13:58:04 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\viewfiles\layouts\Standart.tpl.php | 1: 
+23.11.2014 - 21:00:57 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\gymplan\viewfiles\layouts\Standart.tpl.php | 1: 
+23.11.2014 - 21:00:57 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\gymplan\viewfiles\layouts\Standart.tpl.php | 1: 
+23.11.2014 - 21:00:57 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\gymplan\viewfiles\layouts\Standart.tpl.php | 1: 
+23.11.2014 - 21:14:49 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\gymplan\viewfiles\layouts\Standart.tpl.php | 1: 
+23.11.2014 - 21:14:49 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\gymplan\viewfiles\layouts\Standart.tpl.php | 1: 
+23.11.2014 - 21:14:49 | error | 127.0.0.1 | File: Undefined index: modul | Line: D:\WebApps\htdocs\Framework\gymplan\viewfiles\layouts\Standart.tpl.php | 1: 

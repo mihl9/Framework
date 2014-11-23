@@ -1,7 +1,7 @@
 <?php
 
 error_reporting(E_ALL | E_NOTICE);
-require_once('framework/base_config.php');
+require_once('../framework/base_config.php');
 //register the autoload
 require_once('autoload.php');
 ProjectAutoload::register();
@@ -18,7 +18,7 @@ $conf->set("www_root", "http://buchhaltung.ch");
 $conf->set("project_classes", "./application");
 $conf->set("project_controllers", $conf->get("project_classes")."/Controller");
 $conf->set("viewpath", $conf->get("project_root")."viewfiles");
-$conf->readINI($conf->get("project_root")."config/config.ini");
+$conf->readINI($conf->get("project_root")."./config/config.ini");
 
 $frontController = \framework\classes\FrontController::getInstance();
 $frontController->setControllerPath($conf->get("project_controllers"));
